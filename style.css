@@ -3,3 +3,45 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto Slab', serif;
 }
+
+.heading {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 30px;
+    color: white;
+    font: weight 500px;
+
+}
+
+.section1 {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    color: white;
+    font-size: 30px;
+    font-weight: 50px;
+    border-radius: 10px;
+    padding: 10px 30px;
+
+
+}
+
+.topic {
+    text-align: center;
+    padding: 2% 25%;
+    font-size: 20px;
+    color: black;
+
+
+}
+
+.tk {
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+}
