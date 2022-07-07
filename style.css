@@ -41,6 +41,80 @@ body {
 
 }
 
+.tk1 {
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    width: 75px;
+    border: 0px solid;
+    background-color: rgb(255, 245, 240);
+    padding-top: 25px;
+}
+
+.tk2 {
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    width: 75px;
+    border: 2px solid red;
+    background-color: palevioletred;
+    padding-top: 25px;
+
+}
+
+.tk3 {
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    width: 75px;
+    border: 0px solid;
+    background-color: rgb(255, 245, 240);
+    padding-top: 25px;
+
+}
+
+.tk4 {
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    width: 75px;
+    border: 0px solid;
+    background-color: rgb(255, 245, 240);
+    padding-top: 25px;
+}
+
+.section2 {
+    display: inline-block;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 10%;
+
+}
+
+.input {
+    text-align: center;
+    font-size: small;
+}
+
+.button-2 {
+    text-align: center;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    color: white;
+    font-size: 20px;
+    font-weight: 30px;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margin-left: 43%;
+}
+
+.add {
+    padding-bottom: 100px;
+}
+
 .title {
     text-align: center;
     font-size: 40px;
