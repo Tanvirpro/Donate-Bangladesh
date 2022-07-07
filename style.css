@@ -140,7 +140,7 @@ body {
 .card1 {
     width: 250px;
     height: 250px;
-    border: 1px solid;
+    border: 0px solid;
     margin-top: 15px;
     background-color: rgba(127, 219, 255, 0.459);
     text-align: justify;
@@ -154,7 +154,7 @@ body {
 .card2 {
     width: 250px;
     height: 250px;
-    border: 1px solid;
+    border: 0px solid;
     margin-top: 15px;
     background-color: pink;
     text-align: justify;
@@ -167,7 +167,7 @@ body {
 .card3 {
     width: 250px;
     height: 250px;
-    border: 1px solid;
+    border: 0px solid;
     margin-top: 15px;
     background-color: rgba(127, 255, 212, 0.459);
     text-align: justify;
@@ -182,4 +182,80 @@ body {
     display: flex;
     margin-left: 20%;
 
+}
+
+.updates {
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.para3 {
+    text-align: center;
+    font-size: 15px;
+
+
+    font-weight: 10px;
+}
+
+
+
+
+
+
+
+
+
+.input-email {
+    display: inline-block;
+    display: flex;
+    height: 40px;
+    width: 30px;
+    border: 0px solid black;
+    margin-left: 32%;
+    padding-top: 2%;
+
+
+}
+
+
+
+.in-button {
+    background-color: tomato;
+    font-size: 15px;
+    font-weight: 30px;
+    color: white;
+    padding: 5px 9px;
+
+}
+
+.subs-container {
+    align-items: center;
+    width: 70%;
+    height: 70px;
+    background-color: pink;
+    margin-left: 16%;
+}
+
+footer {
+    height: 60%;
+    width: 100%;
+    background-color: black;
+}
+
+.foot {
+    padding: 10px;
+}
+
+.be {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: maroon;
+}
+
+.right {
+    font-size: small;
+    text-align: center;
+    color: whitesmoke;
 }
